@@ -104,3 +104,5 @@ Lint/ShadowedArgument:
   Enabled: true
 
 ### Añade aquí todos los Cops que quieras:
+Style/FrozenStringLiteralComment:
+  Enabled: false
